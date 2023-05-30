@@ -2,10 +2,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<%@include file="Import.jsp"%>
 <title>Hriday Khanna AKA HridayDev</title>
 </head>
-<body>
-	<h1>Hi!</h1>
+<body class="bg-dark">
+	<%@include file="Navbar.jsp" %>
+	<h1 class="text-success">Hi!</h1>
 </body>
 </html>
