@@ -2,7 +2,7 @@
 	<div class="container-fluid">
 
 		<a class="navbar-brand" href="index.jsp"> <img
-			src="IMG/HridayDev.png" alt="HridayDev" width="250" height="60">
+			src="IMG/HridayDev.png" alt="HridayDev" width="250" height="15%">
 		</a>
 
 		<div class="collapse navbar-collapse" id="navStuff">
